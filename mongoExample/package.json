@@ -15,7 +15,7 @@
     "express-error-handler": "^1.1.0",
     "express-session": "^1.14.2",
     "mongodb": "^2.2.21",
-    "mongoose": "^4.7.7",
+    "mongoose": "^5.7.12",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   }
